@@ -4,6 +4,10 @@
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen)](https://polychat-translation.vercel.app/auth)
+
+## 🚀 Live Demo
+**[https://polychat-translation.vercel.app/auth](https://polychat-translation.vercel.app/auth)**
 
 ## Features ✨
 - **Real-time multilingual messaging** with <1s translation-reception latency
@@ -37,3 +41,4 @@ cp .env.example .env
 
 # Run development server
 npm run dev
+```
